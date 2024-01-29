@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
-   printf("Hello World")
-   return 0;
+   printf("My name is Kashish");
+   printf("I am froM Thane");
+  
    
 }
